@@ -1,0 +1,16 @@
+body {
+	background-color: white;
+	font-family: Helvetica, sans-serif;
+	width: 100%;
+	margin: 2em;
+}
+h1 {
+	font-size: 3em;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	font-size: 2em;
+	color: black;
+}
