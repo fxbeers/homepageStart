@@ -1,18 +1,21 @@
 body {
-	background-color: white;
+	background-color: #ffffff;
 	font-family: Helvetica, sans-serif;
 	width: 100%;
 }
+
 div.main {
+	margin-top: 3em;
 	text-align: center;
 }
+
 h1 {
 	font-size: 3em;
-	color: black;
+	color: #383838;
 }
 
 a {
 	text-decoration: none;
 	font-size: 2em;
-	color: black;
+	color: #383838;
 }
